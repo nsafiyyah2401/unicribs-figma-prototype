@@ -14,13 +14,13 @@
 
 ---
 
-## ⭐ Overview
+## Overview
 
 This repository contains the **Figma prototype and MVP demo** for **UniCribs**, a rental platform designed for university students and landlords. The prototype demonstrates core user flows including browsing properties, handling payments, monitoring maintenance, tenant screening, and community engagement.
 
 ---
 
-## 🏡 What is UniCribs?
+## What is UniCribs?
 
 UniCribs is an all-in-one rental platform aimed at solving common rental challenges such as unclear payments, communication gaps, safety concerns, and maintenance tracking.
 It provides a unified system for:
@@ -34,7 +34,7 @@ It provides a unified system for:
 
 ---
 
-## 📌 MoSCoW Feature Prioritization
+## MoSCoW Feature Prioritization
 
 ### **Must Have**
 
@@ -72,7 +72,7 @@ It provides a unified system for:
 
 ---
 
-## 🎨 Prototype Screens
+## Prototype Screens
 
 ### 👩‍🎓 Student Segment
 
@@ -99,7 +99,7 @@ It provides a unified system for:
 
 ---
 
-## 🎬 MVP Description
+## MVP Description
 
 The MVP is delivered as a **3:11 minute demonstration video**, built from the high-fidelity Figma prototype. It simulates real user interactions and showcases:
 
@@ -118,14 +118,14 @@ The MVP video was chosen because it communicates the full concept efficiently an
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Figma** – UI/UX & high-fidelity prototype
 * **CapCut / Video Tools** – MVP demo creation
   
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 **Demo Video:** https://www.tiktok.com/@weareunicribs/video/7512877812248825096?is_from_webapp=1&web_id=7501338186389882386
 
